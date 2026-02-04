@@ -81,7 +81,7 @@ export default function About() {
                             </p>
 
                             <a
-                                href="https://drive.google.com/file/d/1M6H9kYS22eS7gJuEzQp3H_iUKjK9SZVw/view?usp=sharing"
+                                href="https://drive.google.com/file/d/1H8-ABqQ5npkOiOjSMsc096d60cxm0nr3/view?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-block mt-6 brutalist-border px-6 py-3 bg-accent text-black font-bold font-mono hover:bg-black hover:text-white transition-all duration-300 glitch-hover cursor-hover"
