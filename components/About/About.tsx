@@ -79,6 +79,16 @@ export default function About() {
                                 Specializing in <span className="text-accent font-bold">AI/ML & GenAI</span>, I build systems that turn messy data into distinct insights.
                                 When not training models, I'm usually debugging them (or questioning my life choices in StackOverflow threads).
                             </p>
+
+                            <a
+                                href="https://drive.google.com/file/d/1M6H9kYS22eS7gJuEzQp3H_iUKjK9SZVw/view?usp=sharing"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-block mt-6 brutalist-border px-6 py-3 bg-accent text-black font-bold font-mono hover:bg-black hover:text-white transition-all duration-300 glitch-hover cursor-hover"
+                                data-cursor-text="PDF"
+                            >
+                                [ RESUME ]
+                            </a>
                         </div>
 
                         <div className="brutalist-border-thick p-8 bg-black text-white transform -rotate-1 hover:rotate-0 transition-transform duration-300 cursor-hover glitch-hover" data-cursor-text="MISSION">
